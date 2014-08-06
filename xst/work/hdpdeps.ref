@@ -1,0 +1,6 @@
+V3 3
+FL "C:/Users/Duy/ISE Projects/counter/counter.vhd" 2014/07/21.11:37:41 P.20131013
+EN work/counter 1405973108 FL "C:/Users/Duy/ISE Projects/counter/counter.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/counter/behavior 1405973109 \
+      FL "C:/Users/Duy/ISE Projects/counter/counter.vhd" EN work/counter 1405973108

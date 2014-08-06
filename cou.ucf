@@ -1,0 +1,13 @@
+NET "a" LOC = "L14"; # Bank = 1, Signal name = CA
+NET "b" LOC = "H12"; # Bank = 1, Signal name = CB
+NET "c" LOC = "N14"; # Bank = 1, Signal name = CC
+NET "d" LOC = "N11"; # Bank = 2, Signal name = CD
+NET "e" LOC = "P12"; # Bank = 2, Signal name = CE
+NET "f" LOC = "L13"; # Bank = 1, Signal name = CF
+NET "g" LOC = "M12"; # Bank = 1, Signal name = CG
+
+NET "reset" LOC = "A7";  # Bank = 1, Signal name = BTN3
+
+NET "UpDownCount" LOC = "P11";  # Bank = 2, Signal name = SW0
+
+NET "Clock" LOC = "B8"; # Bank = 0, Signal name = MCLK
